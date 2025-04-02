@@ -1,5 +1,5 @@
 # User added
-data/*.csv
+golf_predictor/data/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
